@@ -1,0 +1,6 @@
+physics, Alain Aspect, Anton Zeilinger, John Clauser
+medicine, Svante Paabo
+chemistry, Carolyn R. Bertozzi, Karl Barry Sharpless, Morten P. Meldal
+literature, Annie Emaux
+peace, Ales Bialatski, Memorial, Center for Civil Liberties
+economics, Ben S. Bernanke, Philip H. Dybvig, Douglas W. Diamond
